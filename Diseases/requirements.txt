@@ -1,0 +1,7 @@
+flask
+flask_cors
+scikit-learn==1.9.0
+numpy
+joblib
+
+pandas
